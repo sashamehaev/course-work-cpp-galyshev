@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(110,41): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(110,41): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(72,7): warning C4101: name: неиспользованная локальная переменная
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(249,19): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(249,13): warning C4309: инициализация: усечение константного значения
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(381,20): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(381,14): warning C4309: инициализация: усечение константного значения
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(382,7): warning C4101: name: неиспользованная локальная переменная
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(438,20): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(438,14): warning C4309: инициализация: усечение константного значения
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(439,7): warning C4101: name: неиспользованная локальная переменная
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(574,7): warning C4101: name: неиспользованная локальная переменная
+C:\Users\sasha\source\repos\Галышев\Галышев\Source.cpp(657,7): warning C4101: name: неиспользованная локальная переменная
+  Галышев.vcxproj -> C:\Users\sasha\source\repos\Галышев\x64\Debug\Галышев.exe
